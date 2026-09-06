@@ -32,7 +32,7 @@ Development of a corporate website and landing page for **V&P Group** (Poland) �
 ![Presentation](screenshots/showcase.png)
 
 ## Live Site
-🔗 [Visit the website](https://vp-group-site.com)
+🔗 [Visit the website](https://vnp.com.pl)
 
 ---
 
